@@ -80,20 +80,28 @@ Secure Protocols: Use DNSSEC to protect against DNS spoofing.
 
 # Most cyberattacks occur over the network, so having a robust network security program in place is essential to managing an organization’s cybersecurity risk. Some best practices to put in place to help protect against network security threats include the following:
 
-# Employee Training: Many types of cyberattacks — such as phishing and trojans — rely on deceiving the intended target into clicking a link, opening an attachment, or running the malware. Cybersecurity awareness training can teach users to identify the latest threats, reducing the risk that they will fall for them.
+# Employee Training:
+Many types of cyberattacks — such as phishing and trojans — rely on deceiving the intended target into clicking a link, opening an attachment, or running the malware. Cybersecurity awareness training can teach users to identify the latest threats, reducing the risk that they will fall for them.
 
-# Next-Generation Firewall (NGFW): A firewall is the cornerstone of any network security architecture. An NGFW will identify potential inbound threats and outgoing data exfiltration and block these malicious data flows from crossing the network boundary.
+# Next-Generation Firewall (NGFW):
+A firewall is the cornerstone of any network security architecture. An NGFW will identify potential inbound threats and outgoing data exfiltration and block these malicious data flows from crossing the network boundary.
 
-# Patch Management: Many threats — including some worms — will exploit unpatched vulnerabilities to spread to new systems. Promptly applying updates and patches can help to close these security gaps before an attacker can exploit them.
+# Patch Management: 
+Many threats — including some worms — will exploit unpatched vulnerabilities to spread to new systems. Promptly applying updates and patches can help to close these security gaps before an attacker can exploit them.
 
 # Microsegmentation: Microsegmentation places a trust boundary around each application, enabling malicious or unauthorized requests to be identified and blocked. Microsegmentation can be implemented using software-defined perimeter (SDP) tools.
 
-# Access Management: Cybercriminals and malware commonly use compromised login credentials to access and abuse legitimate user accounts. Implementing least privilege access management — granting users and applications only the permissions needed for their jobs — limits the potential damage that can be done by a compromised user account.
+# Access Management: 
+Cybercriminals and malware commonly use compromised login credentials to access and abuse legitimate user accounts. Implementing least privilege access management — granting users and applications only the permissions needed for their jobs — limits the potential damage that can be done by a compromised user account.
 
-# Antivirus and Antimalware: Antivirus and antimalware tools have the ability to identify and remediate malware infections. Deploying these capabilities at the network and endpoint level can help to protect against ransomware, trojans, and other malware threats.
+# Antivirus and Antimalware:
+Antivirus and antimalware tools have the ability to identify and remediate malware infections. Deploying these capabilities at the network and endpoint level can help to protect against ransomware, trojans, and other malware threats.
 
-# DDoS Mitigation: DDoS attacks attempt to overwhelm their targets with large volumes of spam traffic. DDoS mitigation solutions can identify and scrub attack traffic before it reaches its intended target.
+# DDoS Mitigation: 
+DDoS attacks attempt to overwhelm their targets with large volumes of spam traffic. DDoS mitigation solutions can identify and scrub attack traffic before it reaches its intended target.
 
-# Data Loss Prevention (DLP): Several malware variants are designed to steal and exfiltrate sensitive information from an organization’s network. Deploying DLP can enable an organization to detect and block these outgoing data streams before corporate and customer data is placed at risk.
+# Data Loss Prevention (DLP):
+Several malware variants are designed to steal and exfiltrate sensitive information from an organization’s network. Deploying DLP can enable an organization to detect and block these outgoing data streams before corporate and customer data is placed at risk.
 
-# Incident Response: Every organization will eventually suffer a successful cyberattack. Having an incident response plan and team in place before a security incident occurs increases the probability of a rapid, correct response that minimizes damage to the organization and its customers.
+# Incident Response: 
+  Every organization will eventually suffer a successful cyberattack. Having an incident response plan and team in place before a security incident occurs increases the probability of a rapid, correct response that minimizes damage to the organization and its customers.
