@@ -89,7 +89,8 @@ A firewall is the cornerstone of any network security architecture. An NGFW will
 # Patch Management: 
 Many threats — including some worms — will exploit unpatched vulnerabilities to spread to new systems. Promptly applying updates and patches can help to close these security gaps before an attacker can exploit them.
 
-# Microsegmentation: Microsegmentation places a trust boundary around each application, enabling malicious or unauthorized requests to be identified and blocked. Microsegmentation can be implemented using software-defined perimeter (SDP) tools.
+# Microsegmentation:
+Microsegmentation places a trust boundary around each application, enabling malicious or unauthorized requests to be identified and blocked. Microsegmentation can be implemented using software-defined perimeter (SDP) tools.
 
 # Access Management: 
 Cybercriminals and malware commonly use compromised login credentials to access and abuse legitimate user accounts. Implementing least privilege access management — granting users and applications only the permissions needed for their jobs — limits the potential damage that can be done by a compromised user account.
